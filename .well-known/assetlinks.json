@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pallas1997.rescata",
+        "sha256_cert_fingerprints": ["89:00:03:11:6F:81:A9:16:63:1A:19:F4:03:2B:62:F4:A7:19:00:84:90:2F:0F:B4:63:9C:D3:06:3E:06:74:FE"]
+      }
+    }]
